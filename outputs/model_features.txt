@@ -1,0 +1,16 @@
+HEATCARE model input features
+Provider_Count
+year
+month
+month_sin
+month_cos
+attendance_lag_1
+attendance_lag_2
+Avg_Max_Temp_C_lag_1
+Avg_Min_Temp_C_lag_1
+Highest_Temp_C_lag_1
+Avg_Humidity_Pct_lag_1
+Hot_Days_lag_1
+
+Target column:
+Total_AE_Attendances

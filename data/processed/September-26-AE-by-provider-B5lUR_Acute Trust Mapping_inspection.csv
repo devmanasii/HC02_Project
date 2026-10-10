@@ -1,0 +1,248 @@
+,,,,,vlookup ref,4,5,6,7,12,13,14,15,,
+,,,,,,1,2,3,4,8,9,10,11,,
+,,,,,,A&E attendances,,,,"A&E attendances > 4 hours from arrival to admission, transfer or discharge",,,,,
+Code,Region,Name,Acute Code,Acute trust 1,Proportion of Attends Acute 1,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total attendances,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total Attendances > 4 hours,,
+RC9,NHS England East Of England,Bedfordshire Hospitals NHS Foundation Trust,RC9,Bedfordshire Hospitals NHS Foundation Trust,1,18509,0,8667,27176,6943,0,0,6943,Bedfordshire Hospitals NHS Foundation Trust,RC9
+RGT,NHS England East Of England,Cambridge University Hospitals NHS Foundation Trust,RGT,Cambridge University Hospitals NHS Foundation Trust,1,12085,0,5862,17947,5557,0,100,5657,Cambridge University Hospitals NHS Foundation Trust,RGT
+NQ108,NHS England East Of England,Clacton Hospital,RDE,East Suffolk And North Essex NHS Foundation Trust,1,0,0,0,0,0,0,0,0,East And North Hertfordshire NHS Trust,RWH
+RWH,NHS England East Of England,East And North Hertfordshire NHS Trust,RWH,East And North Hertfordshire NHS Trust,1,9588,0,9229,18817,5076,0,122,5198,East Suffolk and North Essex NHS Foundation Trust ,RDE
+RDE,NHS England East Of England,East Suffolk And North Essex NHS Foundation Trust,RDE,East Suffolk And North Essex NHS Foundation Trust,1,12846,0,12888,25734,5294,0,952,6246,James Paget University Hospitals NHS Foundation Trust,RGP
+NQ106,NHS England East Of England,Fryatt Hospital,RDE,East Suffolk And North Essex NHS Foundation Trust,1,0,0,0,0,0,0,0,0,Mid and South Essex NHS Foundation Trust,RAJ
+RY4,NHS England East Of England,Hertfordshire Community NHS Trust,RQW,The Princess Alexandra Hospital NHS Trust,1,0,0,1195,1195,0,0,66,66,Milton Keynes University Hospital NHS Foundation Trust,RD8
+DT301,NHS England East Of England,Herts Urgent Care (Ascots Lane),RWH,East & North Hertfordshire,1,0,0,2328,2328,0,0,120,120,Norfolk And Norwich University Hospitals NHS Foundation Trust,RM1
+RGP,NHS England East Of England,James Paget University Hospitals NHS Foundation Trust,RGP,James Paget University Hospitals NHS Foundation Trust,1,7874,0,1582,9456,3219,0,0,3219,North West Anglia NHS Foundation Trust,RGN
+RAJ,NHS England East Of England,Mid and South Essex NHS Foundation Trust,RAJ,Mid and South Essex NHS Foundation Trust,1,28628,0,8515,37143,10928,0,361,11289,The Princess Alexandra Hospital NHS Trust,RQW
+RD8,NHS England East Of England,Milton Keynes University Hospital NHS Foundation Trust,RD8,Milton Keynes University Hospital NHS Foundation Trust,1,9420,0,6789,16209,4650,0,178,4828,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",RCX
+RM1,NHS England East Of England,Norfolk And Norwich University Hospitals NHS Foundation Trust,RM1,Norfolk And Norwich University Hospitals NHS Foundation Trust,1,13687,0,8042,21729,4376,0,7,4383,West Hertfordshire Hospitals NHS Trust,RWG
+RGN,NHS England East Of England,North West Anglia NHS Foundation Trust,RGN,North West Anglia NHS Foundation Trust,1,17985,0,3887,21872,6999,0,270,7269,West Suffolk NHS Foundation Trust,RGR
+Y02428,NHS England East Of England,Putnoe Medical Centre Walk In Centre,RC9,Bedfordshire Hospitals NHS Foundation Trust,1,0,0,2335,2335,0,0,0,0,"Barking, Havering And Redbridge University Hospitals NHS Trust",RF4
+RQW,NHS England East Of England,The Princess Alexandra Hospital NHS Trust,RQW,The Princess Alexandra Hospital NHS Trust,1,9234,0,2565,11799,2644,0,0,2644,Barts Health NHS Trust,R1H
+RCX,NHS England East Of England,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",1,6636,0,1297,7933,2792,0,0,2792,Chelsea And Westminster Hospital NHS Foundation Trust,RQM
+RWG,NHS England East Of England,West Hertfordshire Teaching Hospitals NHS Trust,RWG,West Hertfordshire Teaching Hospitals NHS Trust,1,8453,0,9787,18240,2277,0,54,2331,Croydon Health Services NHS Trust,RJ6
+RGR,NHS England East Of England,West Suffolk NHS Foundation Trust,RGR,West Suffolk NHS Foundation Trust,1,8324,0,940,9264,1691,0,0,1691,Epsom And St Helier University Hospitals NHS Trust,RVR
+RF4,NHS England London,"Barking, Havering And Redbridge University Hospitals NHS Trust",RF4,"Barking, Havering And Redbridge University Hospitals NHS Trust",1,14321,2471,16018,32810,5308,259,440,6007,Guy's And St Thomas' NHS Foundation Trust,RJ1
+G0Q0L,NHS England London,Barking Hospital UTC,RF4,"Barking, Havering And Redbridge University Hospitals NHS Trust",1,0,0,2883,2883,0,0,32,32,Homerton University Hospital NHS Foundation Trust,RQX
+R1H,NHS England London,Barts Health NHS Trust,R1H,Barts Health NHS Trust,1,27253,895,18702,46850,10642,1,1535,12178,Imperial College Healthcare NHS Trust,RYJ
+AD913,NHS England London,Beckenham Beacon Ucc,RJZ,King's College Hospital NHS Foundation Trust,0.38,0,0,1419.68,1419.68,0,0,5.32,5.32,King's College Hospital NHS Foundation Trust,RJZ
+AD913,NHS England London,Beckenham Beacon Ucc,RJ2,Lewisham And Greenwich NHS Trust,0.37,0,0,1382.32,1382.32,0,0,5.18,5.18,Kingston and Richmond NHS Foundation Trust,RAX
+AD913,NHS England London,Beckenham Beacon Ucc,RJ6,Croydon Health Services NHS Trust,0.25,0,0,934,934,0,0,3.5,3.5,Lewisham And Greenwich NHS Trust,RJ2
+RYX,NHS England London,Central London Community Healthcare NHS Trust,RYJ,Imperial College Healthcare NHS Trust,0.52,0,0,7450.04,7450.04,0,0,203.84,203.84,London North West Healthcare NHS Trust,R1K
+RYX,NHS England London,Central London Community Healthcare NHS Trust,RRV,University College London Hospitals NHS Foundation Trust,0.27,0,0,3868.2900000000004,3868.2900000000004,0,0,105.84,105.84,Moorfields Eye Hospital NHS Foundation Trust,RP6
+RYX,NHS England London,Central London Community Healthcare NHS Trust,RKE,Whittington Health NHS Trust,0.21,0,0,3008.67,3008.67,0,0,82.32,82.32,North Middlesex University Hospital NHS Trust,RAP
+RQM,NHS England London,Chelsea And Westminster Hospital NHS Foundation Trust,RQM,Chelsea And Westminster Hospital NHS Foundation Trust,1,21929,0,6840,28769,6019,0,320,6339,Royal Free London NHS Foundation Trust,RAL
+RJ6,NHS England London,Croydon Health Services NHS Trust,RJ6,Croydon Health Services NHS Trust,1,13804,0,4657,18461,5094,0,0,5094,St George's University Hospitals NHS Foundation Trust,RJ7
+RVR,NHS England London,Epsom And St Helier University Hospitals NHS Trust,RVR,Epsom And St Helier University Hospitals NHS Trust,1,11638,0,2921,14559,3809,0,436,4245,The Hillingdon Hospitals NHS Foundation Trust,RAS
+RJ1,NHS England London,Guy's And St Thomas' NHS Foundation Trust,RJ1,Guy's And St Thomas' NHS Foundation Trust,1,11004,0,7279,18283,4273,0,217,4490,University College London Hospitals NHS Foundation Trust,RRV
+K6K0R,NHS England London,Harold Wood Polyclinic UTC,RF4,"Barking, Havering And Redbridge University Hospitals NHS Trust",1,0,0,2752,2752,0,0,25,25,Whittington Health NHS Trust,RKE
+RQX,NHS England London,Homerton Healthcare NHS Foundation Trust,RQX,Homerton Healthcare NHS Foundation Trust,1,11472,0,0,11472,2468,0,0,2468,George Eliot Hospital NHS Trust,RLT
+RY9,NHS England London,Hounslow And Richmond Community Healthcare NHS Trust,RAX,Kingston and Richmond NHS Foundation Trust,1,0,0,0,0,0,0,0,0,Kettering General Hospital NHS Foundation Trust,RNQ
+RYJ,NHS England London,Imperial College Healthcare NHS Trust,RYJ,Imperial College Healthcare NHS Trust,1,12877,4284,7902,25063,5503,281,364,6148,Northampton General Hospital NHS Trust,RNS
+RJZ,NHS England London,King's College Hospital NHS Foundation Trust,RJZ,King's College Hospital NHS Foundation Trust,1,16246,0,11134,27380,7831,0,613,8444,Nottingham University Hospitals NHS Trust,RX1
+RAX,NHS England London,Kingston and Richmond NHS Foundation Trust,RAX,Kingston and Richmond NHS Foundation Trust,1,7544,0,8597,16141,4412,0,533,4945,Sandwell And West Birmingham Hospitals NHS Trust,RXK
+RJ2,NHS England London,Lewisham And Greenwich NHS Trust,RJ2,Lewisham And Greenwich NHS Trust,1,16492,0,17231,33723,9227,0,515,9742,Sherwood Forest Hospitals NHS Foundation Trust,RK5
+R1K,NHS England London,London North West University Healthcare NHS Trust,R1K,London North West University Healthcare NHS Trust,1,15095,0,16071,31166,7406,0,255,7661,Shrewsbury And Telford Hospital NHS Trust,RXW
+RP6,NHS England London,Moorfields Eye Hospital NHS Foundation Trust,RP6,Moorfields Eye Hospital NHS Foundation Trust,1,0,6569,0,6569,0,484,0,484,South Warwickshire NHS Foundation Trust,RJC
+RAT,NHS England London,North East London NHS Foundation Trust,RAJ,Mid and South Essex NHS Foundation Trust,1,0,0,1626,1626,0,0,28,28,The Dudley Group NHS Foundation Trust,RNA
+RAP,NHS England London,North Middlesex University Hospital NHS Trust,RAP,North Middlesex University Hospital NHS Trust,1,0,0,0,0,0,0,0,0,The Royal Wolverhampton NHS Trust,RL4
+RAL,NHS England London,Royal Free London NHS Foundation Trust,RAL,Royal Free London NHS Foundation Trust,1,27627,625,16844,45096,8220,1,754,8975,United Lincolnshire Teaching Hospitals NHS Trust,RWD
+RJ7,NHS England London,St George's University Hospitals NHS Foundation Trust,RJ7,St George's University Hospitals NHS Foundation Trust,1,10006,0,4101,14107,2879,0,194,3073,University Hospitals Birmingham NHS Foundation Trust,RRK
+RAS,NHS England London,The Hillingdon Hospitals NHS Foundation Trust,RAS,The Hillingdon Hospitals NHS Foundation Trust,1,5219,0,7405,12624,2218,0,73,2291,University Hospitals Coventry And Warwickshire NHS Trust,RKB
+Y03218,NHS England London,THE PINN UNREGISTERED WIC,R1K,London North West University Healthcare NHS Trust,1,0,0,0,0,0,0,0,0,University Hospitals of Derby and Burton NHS Foundation Trust ,RTG
+RRV,NHS England London,University College London Hospitals NHS Foundation Trust,RRV,University College London Hospitals NHS Foundation Trust,1,14600,0,0,14600,3700,0,0,3700,University Hospitals Of Leicester NHS Trust,RWE
+RKE,NHS England London,Whittington Health NHS Trust,RKE,Whittington Health NHS Trust,1,9715,0,0,9715,2706,0,0,2706,Walsall Healthcare NHS Trust,RBK
+RQ3,NHS England Midlands,Birmingham Women's And Children's NHS Foundation Trust,RQ3,Birmingham Women's And Children's NHS Foundation Trust,1,4840,0,897,5737,1248,0,0,1248,Worcestershire Acute Hospitals NHS Trust,RWP
+RFS,NHS England Midlands,Chesterfield Royal Hospital NHS Foundation Trust,RFS,Chesterfield Royal Hospital NHS Foundation Trust,1,6890,0,5220,12110,3350,0,68,3418,Wye Valley NHS Trust,RLQ
+Y03571,NHS England Midlands,Corby Urgent Care Centre,RNQ,Kettering General Hospital NHS Foundation Trust,1,0,0,0,0,0,0,0,0,Airedale NHS Foundation Trust,RCF
+RY8,NHS England Midlands,Derbyshire Community Health Services NHS Foundation Trust,RTG,University Hospitals Of Derby And Burton NHS Foundation Trust,0.52,0,0,4239.04,4239.04,0,0,252.72,252.72,Barnsley Hospital NHS Foundation Trust,RFF
+RY8,NHS England Midlands,Derbyshire Community Health Services NHS Foundation Trust,RFS,Chesterfield Royal Hospital NHS Foundation Trust,0.48,0,0,3912.96,3912.96,0,0,233.28,233.28,Bradford Teaching Hospitals NHS Foundation Trust,RAE
+NNJ,NHS England Midlands,Derbyshire Health United Ltd,RTG,University Hospitals Of Derby And Burton NHS Foundation Trust,0.61,0,0,1163.8799999999999,1163.8799999999999,0,0,0.61,0.61,Calderdale And Huddersfield NHS Foundation Trust,RWY
+NNJ,NHS England Midlands,Derbyshire Health United Ltd,RFS,Chesterfield Royal Hospital NHS Foundation Trust,0.39,0,0,744.12,744.12,0,0,0.39,0.39,County Durham And Darlington NHS Foundation Trust,RXP
+RLT,NHS England Midlands,George Eliot Hospital NHS Trust,RLT,George Eliot Hospital NHS Trust,1,7779,0,1653,9432,1252,0,0,1252,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,RP5
+RNQ,NHS England Midlands,Kettering General Hospital NHS Foundation Trust,RNQ,Kettering General Hospital NHS Foundation Trust,1,11028,0,8976,20004,4339,0,21,4360,Gateshead Health NHS Foundation Trust,RR7
+C82038,NHS England Midlands,Latham House Medical Practice,RWE,University Hospitals Of Leicester NHS Trust,1,0,0,384,384,0,0,0,0,Harrogate And District NHS Foundation Trust,RCD
+RY5,NHS England Midlands,Lincolnshire Community Health Services NHS Trust,RWD,United Lincolnshire Teaching Hospitals NHS Trust,1,0,0,9745,9745,0,0,238,238,Hull And East Yorkshire Hospitals NHS Trust,RWA
+NNJ0H,NHS England Midlands,LLR EA - The Merlyn Vaz Health & Social Care Centre,RWE,University Hospitals Of Leicester NHS Trust,1,0,0,2676,2676,0,0,0,0,Leeds Teaching Hospitals NHS Trust,RR8
+NNJ07,NHS England Midlands,Loughborough Urgent Care Centre,RWE,University Hospitals Of Leicester NHS Trust,1,0,0,7847,7847,0,0,52,52,Mid Yorkshire Hospitals NHS Trust,RXF
+C82009,NHS England Midlands,Market Harborough Med.Ctr,RWE,University Hospitals Of Leicester NHS Trust,1,0,0,323,323,0,0,0,0,North Cumbria Integrated Care NHS Foundation Trust,RNN
+NNJ10,NHS England Midlands,Enderby Leisure Centre,RWE,University Hospitals Of Leicester NHS Trust,1,0,0,317,317,0,0,0,0,North Tees And Hartlepool NHS Foundation Trust,RVW
+NNJ11,NHS England Midlands,Lutterworth Hospital,RWE,University Hospitals Of Leicester NHS Trust,1,0,0,139,139,0,0,0,0,Northern Lincolnshire And Goole NHS Foundation Trust,RJL
+NNJ12,NHS England Midlands,Market Harborough Urgent Care Centre,RWE,University Hospitals Of Leicester NHS Trust,1,0,0,298,298,0,0,0,0,Northumbria Healthcare NHS Foundation Trust,RTF
+NNJ13,NHS England Midlands,Melton Mowbray Urgent Care Centre,RWE,University Hospitals Of Leicester NHS Trust,1,0,0,408,408,0,0,0,0,Sheffield Children's NHS Foundation Trust,RCU
+RNS,NHS England Midlands,Northampton General Hospital NHS Trust,RNS,Northampton General Hospital NHS Trust,1,9611,654,3988,14253,4263,25,80,4368,Sheffield Teaching Hospitals NHS Foundation Trust,RHQ
+A5D4Q,NHS England Midlands,NEMS UTC,RX1,Nottingham University Hospitals NHS Trust,1,0,0,0,0,0,0,0,0,South Tees Hospitals NHS Foundation Trust,RTR
+NR3,NHS England Midlands,Nottingham Citycare Partnership,RX1,Nottingham University Hospitals NHS Trust,1,0,0,0,0,0,0,0,0,South Tyneside and Sunderland NHS Foundation Trust,R0B
+RX1,NHS England Midlands,Nottingham University Hospitals NHS Trust,RX1,Nottingham University Hospitals NHS Trust,1,13656,2016,12127,27799,7570,83,1735,9388,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,RTD
+NNJ14,NHS England Midlands,Oadby & Wigston Urgent Care Centre,RWE,University Hospitals Of Leicester NHS Trust,1,0,0,3835,3835,0,0,1,1,The Rotherham NHS Foundation Trust,RFR
+C82010,NHS England Midlands,Oakham Medical Practice,RWE,University Hospitals Of Leicester NHS Trust,1,0,0,0,0,0,0,0,0,York Teaching Hospital NHS Foundation Trust,RCB
+NNJ15,NHS England Midlands,Oakham Urgent Care Centre,RWE,University Hospitals Of Leicester NHS Trust,1,0,0,623,623,0,0,0,0,Alder Hey Children's NHS Foundation Trust,RBS
+RXK,NHS England Midlands,Sandwell And West Birmingham Hospitals NHS Trust,RXK,Sandwell And West Birmingham Hospitals NHS Trust,1,12136,1281,8369,21786,5220,257,85,5562,Blackpool Teaching Hospitals NHS Foundation Trust,RXL
+RK5,NHS England Midlands,Sherwood Forest Hospitals NHS Foundation Trust,RK5,Sherwood Forest Hospitals NHS Foundation Trust,1,11265,0,5917,17182,3533,0,870,4403,Bolton NHS Foundation Trust,RMC
+RXW,NHS England Midlands,The Shrewsbury And Telford Hospital NHS Trust,RXW,The Shrewsbury And Telford Hospital NHS Trust,1,11747,0,2588,14335,6678,0,346,7024,Countess Of Chester Hospital NHS Foundation Trust,RJR
+R1D,NHS England Midlands,Shropshire Community Health NHS Trust,RXW,The Shrewsbury And Telford Hospital NHS Trust,1,0,0,3616,3616,0,0,15,15,East Cheshire NHS Trust,RJN
+C83023,NHS England Midlands,Sleaford Medical Group,RWD,United Lincolnshire Teaching Hospitals NHS Trust,1,0,0,462,462,0,0,0,0,East Lancashire Hospitals NHS Trust,RXR
+RJC,NHS England Midlands,South Warwickshire University NHS Foundation Trust,RJC,South Warwickshire University NHS Foundation Trust,1,8510,0,543,9053,2772,0,0,2772,Lancashire Teaching Hospitals NHS Foundation Trust,RXN
+RNA,NHS England Midlands,The Dudley Group NHS Foundation Trust,RNA,The Dudley Group NHS Foundation Trust,1,10834,0,4331,15165,2896,0,92,2988,Liverpool University Hospitals NHS Foundation Trust,REM
+RL4,NHS England Midlands,The Royal Wolverhampton NHS Trust,RL4,The Royal Wolverhampton NHS Trust,1,11706,1633,7582,20921,3944,45,198,4187,Liverpool Women's NHS Foundation Trust,REP
+RWD,NHS England Midlands,United Lincolnshire Teaching Hospitals NHS Trust,RWD,United Lincolnshire Teaching Hospitals NHS Trust,1,17584,0,4440,22024,6393,0,485,6878,Manchester University NHS Foundation Trust,R0A
+RRK,NHS England Midlands,University Hospitals Birmingham NHS Foundation Trust,RRK,University Hospitals Birmingham NHS Foundation Trust,1,34437,407,12659,47503,14689,0,59,14748,Mid Cheshire Hospitals NHS Foundation Trust,RBT
+RKB,NHS England Midlands,University Hospitals Coventry And Warwickshire NHS Trust,RKB,University Hospitals Coventry And Warwickshire NHS Trust,1,13154,2778,5874,21806,5167,87,123,5377,Pennine Acute Hospitals NHS Trust,RW6
+RTG,NHS England Midlands,University Hospitals Of Derby And Burton NHS Foundation Trust,RTG,University Hospitals Of Derby And Burton NHS Foundation Trust,1,22823,0,9614,32437,10522,0,11,10533,Salford Royal NHS Foundation Trust,RM3
+RWE,NHS England Midlands,University Hospitals Of Leicester NHS Trust,RWE,University Hospitals Of Leicester NHS Trust,1,24152,2198,0,26350,9805,186,0,9991,Southport And Ormskirk Hospital NHS Trust,RVY
+RJE,NHS England Midlands,University Hospitals Of North Midlands NHS Trust,RJE,University Hospitals Of North Midlands NHS Trust,1,15769,540,9723,26032,8638,0,203,8841,St Helens And Knowsley Hospital Services NHS Trust,RBN
+RBK,NHS England Midlands,Walsall Healthcare NHS Trust,RBK,Walsall Healthcare NHS Trust,1,10508,0,4324,14832,3489,0,175,3664,Stockport NHS Foundation Trust,RWJ
+RWP,NHS England Midlands,Worcestershire Acute Hospitals NHS Trust,RWP,Worcestershire Acute Hospitals NHS Trust,1,14684,0,6398,21082,6929,0,134,7063,Tameside And Glossop Integrated Care NHS Foundation Trust,RMP
+RLQ,NHS England Midlands,Wye Valley NHS Trust,RLQ,Wye Valley NHS Trust,1,6436,976,148,7560,2625,0,0,2625,University Hospitals Of Morecambe Bay NHS Foundation Trust,RTX
+RCF,NHS England North East And Yorkshire,Airedale NHS Foundation Trust,RCF,Airedale NHS Foundation Trust,1,6549,278,0,6827,2604,0,0,2604,North Cheshire and Mersey NHS Foundation Trust,RWW
+RFF,NHS England North East And Yorkshire,Barnsley Hospital NHS Foundation Trust,RFF,Barnsley Hospital NHS Foundation Trust,1,10098,0,0,10098,2901,0,0,2901,Wirral University Teaching Hospital NHS Foundation Trust,RBL
+RAE,NHS England North East And Yorkshire,Bradford Teaching Hospitals NHS Foundation Trust,RAE,Bradford Teaching Hospitals NHS Foundation Trust,1,9332,861,3753,13946,2483,0,8,2491,"Wrightington, Wigan And Leigh NHS Foundation Trust",RRF
+NNF09,NHS England North East And Yorkshire,Bransholme Health Centre,RWA,Hull University Teaching Hospitals NHS Trust,1,0,0,3624,3624,0,0,482,482,Ashford And St Peter's Hospitals NHS Foundation Trust,RTK
+NNF16,NHS England North East And Yorkshire,Bridlington Hospital,RCB,York And Scarborough Teaching Hospitals NHS Foundation Trust,1,0,0,1478,1478,0,0,82,82,Brighton And Sussex University Hospitals NHS Trust,RXH
+RWY,NHS England North East And Yorkshire,Calderdale And Huddersfield NHS Foundation Trust,RWY,Calderdale And Huddersfield NHS Foundation Trust,1,16465,0,0,16465,2417,0,0,2417,Buckinghamshire Healthcare NHS Trust,RXQ
+RXP,NHS England North East And Yorkshire,County Durham And Darlington NHS Foundation Trust,RXP,County Durham And Darlington NHS Foundation Trust,1,12901,0,10457,23358,5313,0,0,5313,Dartford And Gravesham NHS Trust,RN7
+RP5,NHS England North East And Yorkshire,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,RP5,Doncaster And Bassetlaw Teaching Hospitals NHS Foundation Trust,1,14439,0,4120,18559,4947,0,9,4956,East Kent Hospitals University NHS Foundation Trust,RVV
+NNF94,NHS England North East And Yorkshire,East Riding Community Hospital,RWA,Hull University Teaching Hospitals NHS Trust,1,0,0,2956,2956,0,0,196,196,East Sussex Healthcare NHS Trust,RXC
+RR7,NHS England North East And Yorkshire,Gateshead Health NHS Foundation Trust,RR7,Gateshead Health NHS Foundation Trust,1,5605,0,4691,10296,2302,0,42,2344,Frimley Health NHS Foundation Trust,RDU
+NNFA7,NHS England North East And Yorkshire,Goole & District Hospital,RJL,Northern Lincolnshire And Goole NHS Foundation Trust,1,0,0,1652,1652,0,0,42,42,Hampshire Hospitals NHS Foundation Trust,RN5
+RCD,NHS England North East And Yorkshire,Harrogate And District NHS Foundation Trust,RCD,Harrogate And District NHS Foundation Trust,1,5599,0,1520,7119,1973,0,12,1985,Isle Of Wight NHS Trust,R1F
+RWA,NHS England North East And Yorkshire,Hull University Teaching Hospitals NHS Trust,RWA,Hull University Teaching Hospitals NHS Trust,1,10218,0,4005,14223,5885,0,580,6465,Maidstone And Tunbridge Wells NHS Trust,RWF
+RV9,NHS England North East And Yorkshire,Humber NHS Foundation Trust,RCB,York And Scarborough Teaching Hospitals NHS Foundation Trust,0.5,0,0,566,566,0,0,5,5,Oxford University Hospitals NHS Foundation Trust,RTH
+RV9,NHS England North East And Yorkshire,Humber NHS Foundation Trust,RTR,South Tees Hospitals NHS Foundation Trust,0.5,0,0,566,566,0,0,5,5,Portsmouth Hospitals NHS Trust,RHU
+ARN02,NHS England North East And Yorkshire,Lcd-Leeds-Ooh,RR8,Leeds Teaching Hospitals NHS Trust,1,0,0,0,0,0,0,0,0,Royal Berkshire NHS Foundation Trust,RHW
+RR8,NHS England North East And Yorkshire,Leeds Teaching Hospitals NHS Trust,RR8,Leeds Teaching Hospitals NHS Trust,1,19869,729,10824,31422,7593,0,45,7638,Royal Surrey County Hospital NHS Foundation Trust,RA2
+ARN03,NHS England North East And Yorkshire,Local Care Direct Ooh,RWY,Calderdale And Huddersfield NHS Foundation Trust,1,0,0,2517,2517,0,0,9,9,Surrey And Sussex Healthcare NHS Trust,RTP
+RXF,NHS England North East And Yorkshire,Mid Yorkshire Teaching NHS Trust,RXF,Mid Yorkshire Teaching NHS Trust,1,17233,139,6757,24129,7040,0,178,7218,University Hospital Southampton NHS Foundation Trust,RHM
+RNN,NHS England North East And Yorkshire,North Cumbria Integrated Care NHS Foundation Trust,RNN,North Cumbria Integrated Care NHS Foundation Trust,1,9184,0,3015,12199,4437,0,149,4586,Western Sussex Hospitals NHS Foundation Trust,RYR
+RVW,NHS England North East And Yorkshire,North Tees And Hartlepool NHS Foundation Trust,RVW,North Tees And Hartlepool NHS Foundation Trust,1,5103,0,11239,16342,3055,0,48,3103,Dorset County Hospital NHS Foundation Trust,RBD
+RJL,NHS England North East And Yorkshire,Northern Lincolnshire And Goole NHS Foundation Trust,RJL,Northern Lincolnshire And Goole NHS Foundation Trust,1,10716,0,6714,17430,5273,0,80,5353,Gloucestershire Hospitals NHS Foundation Trust,RTE
+RTF,NHS England North East And Yorkshire,Northumbria Healthcare NHS Foundation Trust,RTF,Northumbria Healthcare NHS Foundation Trust,1,10939,0,14435,25374,2344,0,0,2344,Great Western Hospitals NHS Foundation Trust,RN3
+RCU,NHS England North East And Yorkshire,Sheffield Children's NHS Foundation Trust,RCU,Sheffield Children's NHS Foundation Trust,1,4643,0,364,5007,483,0,3,486,Northern Devon Healthcare NHS Trust,RBZ
+RHQ,NHS England North East And Yorkshire,Sheffield Teaching Hospitals NHS Foundation Trust,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,1,9334,1395,8121,18850,4871,66,364,5301,Plymouth Hospitals NHS Trust,RK9
+RTR,NHS England North East And Yorkshire,South Tees Hospitals NHS Foundation Trust,RTR,South Tees Hospitals NHS Foundation Trust,1,7575,0,11372,18947,3952,0,361,4313,Royal Cornwall Hospitals NHS Trust,REF
+R0B,NHS England North East And Yorkshire,South Tyneside and Sunderland NHS Foundation Trust,R0B,South Tyneside and Sunderland NHS Foundation Trust,1,12593,1465,7491,21549,5118,41,290,5449,Royal Devon And Exeter NHS Foundation Trust,RH8
+RTD,NHS England North East And Yorkshire,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,1,12694,1862,10291,24847,5569,103,239,5911,Royal United Hospitals Bath NHS Foundation Trust,RD1
+RFR,NHS England North East And Yorkshire,The Rotherham NHS Foundation Trust,RFR,The Rotherham NHS Foundation Trust,1,10045,0,0,10045,3096,0,0,3096,Salisbury NHS Foundation Trust,RNZ
+NNF76,NHS England North East And Yorkshire,The Wilberforce Health Centre,RWA,Hull University Teaching Hospitals NHS Trust,1,0,0,0,0,0,0,0,0,Somerset NHS Foundation Trust,RH5
+AJN,NHS England North East And Yorkshire,Workington Health Limited,RNN,North Cumbria Integrated Care NHS Foundation Trust,1,0,0,492,492,0,0,0,0,Torbay And South Devon NHS Foundation Trust,RA9
+RCB,NHS England North East And Yorkshire,York And Scarborough Teaching Hospitals NHS Foundation Trust,RCB,York And Scarborough Teaching Hospitals NHS Foundation Trust,1,12536,34,5759,18329,6487,0,514,7001,University Hospitals Bristol and Weston NHS Foundation Trust,RA7
+RBS,NHS England North West,Alder Hey Children's NHS Foundation Trust,RBS,Alder Hey Children's NHS Foundation Trust,1,6240,0,0,6240,881,0,0,881,University Hospitals Dorset NHS Foundation Trust,R0D
+RXL,NHS England North West,Blackpool Teaching Hospitals NHS Foundation Trust,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,1,9133,0,10139,19272,4514,0,116,4630,Yeovil District Hospital NHS Foundation Trust,RA4
+RMC,NHS England North West,Bolton NHS Foundation Trust,RMC,Bolton NHS Foundation Trust,1,8873,0,3726,12599,4319,0,300,4619,,
+RJR,NHS England North West,Countess Of Chester Hospital NHS Foundation Trust,RJR,Countess Of Chester Hospital NHS Foundation Trust,1,5968,0,2708,8676,2964,0,346,3310,,
+RJN,NHS England North West,East Cheshire NHS Trust,RJN,East Cheshire NHS Trust,1,4753,0,58,4811,2413,0,0,2413,,
+RXR,NHS England North West,East Lancashire Hospitals NHS Trust,RXR,East Lancashire Hospitals NHS Trust,1,13927,0,11315,25242,5219,0,935,6154,,
+RXN,NHS England North West,Lancashire Teaching Hospitals NHS Foundation Trust,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,1,13030,0,3385,16415,4203,0,237,4440,,
+REM,NHS England North West,Liverpool University Hospitals NHS Foundation Trust,REM,Liverpool University Hospitals NHS Foundation Trust,1,17475,1989,8689,28153,9091,15,282,9388,,
+REP,NHS England North West,Liverpool Women's NHS Foundation Trust,REP,Liverpool Women's NHS Foundation Trust,1,0,1654,0,1654,0,188,0,188,,
+R0A,NHS England North West,Manchester University NHS Foundation Trust,R0A,Manchester University NHS Foundation Trust,1,31246,3914,12346,47506,12733,348,379,13460,,
+RW4,NHS England North West,Mersey Care NHS Foundation Trust,REM,Liverpool University Hospitals NHS Foundation Trust,0.381958407079646,0,0,5505.9304380530975,5505.9304380530975,0,0,111.91381327433628,111.91381327433628,,
+RW4,NHS England North West,Mersey Care NHS Foundation Trust,RBS,Alder Hey Children's NHS Foundation Trust,0.37588495575221237,0,0,5418.381637168141,5418.381637168141,0,0,110.13429203539822,110.13429203539822,,
+RW4,NHS England North West,Mersey Care NHS Foundation Trust,RBN,Mersey and West Lancashire Teaching Hospitals NHS Trust,0.2421566371681416,0,0,3490.687924778761,3490.687924778761,0,0,70.95189469026549,70.95189469026549,,
+RBT,NHS England North West,Mid Cheshire Hospitals NHS Foundation Trust,RBT,Mid Cheshire Hospitals NHS Foundation Trust,1,7353,0,3319,10672,3696,0,22,3718,,
+Y02532,NHS England North West,MIRIAM MINOR EMERGENCY ,RBL,Wirral University Teaching Hospital NHS Foundation Trust,1,0,0,1662,1662,0,0,0,0,,
+RM3,NHS England North West,Northern Care Alliance NHS Foundation Trust,RM3,Northern Care Alliance NHS Foundation Trust,1,27197,0,9021,36218,10463,0,391,10854,,
+NV693,NHS England North West,Rossendale MIU & OOH ,RM3,Northern Care Alliance NHS Foundation Trust,1,0,0,1040,1040,0,0,4,4,,
+NQT5F,NHS England North West,Skelmersdale Walk In Centre,RBN,Mersey and West Lancashire Teaching Hospitals NHS Trust,1,0,0,1633,1633,0,0,13,13,,
+RBN,NHS England North West,Mersey and West Lancashire Teaching Hospitals NHS Trust,RBN,Mersey and West Lancashire Teaching Hospitals NHS Trust,1,18040,0,7335,25375,6710,0,58,6768,,
+RWJ,NHS England North West,Stockport NHS Foundation Trust,RWJ,Stockport NHS Foundation Trust,1,8875,0,2414,11289,3301,0,61,3362,,
+RMP,NHS England North West,Tameside And Glossop Integrated Care NHS Foundation Trust,RMP,Tameside And Glossop Integrated Care NHS Foundation Trust,1,9548,0,2419,11967,4747,0,39,4786,,
+RTX,NHS England North West,University Hospitals Of Morecambe Bay NHS Foundation Trust,RTX,University Hospitals Of Morecambe Bay NHS Foundation Trust,1,9076,0,4957,14033,3608,0,116,3724,,
+RWW,NHS England North West,North Cheshire and Mersey NHS Foundation Trust,RWW,North Cheshire and Mersey NHS Foundation Trust,1,7511,0,6530,14041,3386,0,101,3487,,
+RY7,NHS England North West,Wirral Community NHS Foundation Trust,RBL,Wirral University Teaching Hospital NHS Foundation Trust,1,0,0,3605,3605,0,0,365,365,,
+RBL,NHS England North West,Wirral University Teaching Hospital NHS Foundation Trust,RBL,Wirral University Teaching Hospital NHS Foundation Trust,1,8046,0,2623,10669,4552,0,416,4968,,
+RRF,NHS England North West,"Wrightington, Wigan And Leigh NHS Foundation Trust",RRF,"Wrightington, Wigan And Leigh NHS Foundation Trust",1,7034,0,6080,13114,3978,0,84,4062,,
+RTK,NHS England South East,Ashford And St Peter's Hospitals NHS Foundation Trust,RTK,Ashford And St Peter's Hospitals NHS Foundation Trust,1,8078,0,2683,10761,3388,0,157,3545,,
+NTV0B,NHS England South East,Ashford Walk-In-Centre,RTK,Ashford And St Peter's Hospitals NHS Foundation Trust,1,0,0,2584,2584,0,0,273,273,,
+NQT10,NHS England South East,Assura Reading Llp,RHW,Royal Berkshire NHS Foundation Trust,1,0,0,0,0,0,0,0,0,,
+RWX,NHS England South East,Berkshire Healthcare NHS Foundation Trust,RHW,Royal Berkshire NHS Foundation Trust,1,0,0,1419,1419,0,0,19,19,,
+Y04538,NHS England South East,Bracknell Urgent Care Centre Wic,RDU,Frimley Health NHS Foundation Trust,1,0,0,0,0,0,0,0,0,,
+Y02676,NHS England South East,Brighton Station Walk in Centre,RYR,University Hospitals Sussex NHS Foundation Trust,1,0,0,1969,1969,0,0,0,0,,
+RXQ,NHS England South East,Buckinghamshire Healthcare NHS Trust,RXQ,Buckinghamshire Healthcare NHS Trust,1,9848,1233,3232,14313,3093,0,120,3213,,
+RN7,NHS England South East,Dartford And Gravesham NHS Trust,RN7,Dartford And Gravesham NHS Trust,1,12375,0,4121,16496,3177,0,98,3275,,
+RVV,NHS England South East,East Kent Hospitals University NHS Foundation Trust,RVV,East Kent Hospitals University NHS Foundation Trust,1,13689,0,13271,26960,6715,0,814,7529,,
+RXC,NHS England South East,East Sussex Healthcare NHS Trust,RXC,East Sussex Healthcare NHS Trust,1,12359,0,3758,16117,4119,0,48,4167,,
+Y02816,NHS England South East,Eastbourne Station Health Centre,RXC,East Sussex Healthcare NHS Trust,1,0,0,0,0,0,0,0,0,,
+AQM01,NHS England South East,Faversham Medical Practice MIU,RVV,East Kent Hospitals University NHS Foundation Trust,1,0,0,2784,2784,0,0,0,0,,
+NDJ,NHS England South East,First Community Health and Care CIC,RTP,Surrey And Sussex Healthcare NHS Trust,1,0,0,2453,2453,0,0,70,70,,
+RDU,NHS England South East,Frimley Health NHS Foundation Trust,RDU,Frimley Health NHS Foundation Trust,1,23398,944,11567,35909,8750,0,131,8881,,
+RN5,NHS England South East,Hampshire Hospitals NHS Foundation Trust,RN5,Hampshire Hospitals NHS Foundation Trust,1,10050,82,4873,15005,5203,0,423,5626,,
+DJV01,NHS England South East,Herne Bay Health Care Ltd,RVV,East Kent Hospitals University NHS Foundation Trust,1,0,0,2779,2779,0,0,0,0,,
+R1F,NHS England South East,Isle Of Wight NHS Trust,R1F,Isle Of Wight NHS Trust,1,4442,230,1741,6413,1247,0,28,1275,,
+RYY,NHS England South East,Kent Community Health NHS Foundation Trust,RVV,East Kent Hospitals University NHS Foundation Trust,1,0,0,6655,6655,0,0,95,95,,
+RWF,NHS England South East,Maidstone And Tunbridge Wells NHS Trust,RWF,Maidstone And Tunbridge Wells NHS Trust,1,21697,0,1712,23409,5871,0,1,5872,,
+RPA,NHS England South East,Medway NHS Foundation Trust,RPA,Medway NHS Foundation Trust,1,10582,0,6701,17283,3207,0,1016,4223,,
+RNU,NHS England South East,Oxford Health NHS Foundation Trust,RTH,Oxford University Hospitals NHS Foundation Trust,0.828,0,0,4064.6519999999996,4064.6519999999996,0,0,202.85999999999999,202.85999999999999,,
+RNU,NHS England South East,Oxford Health NHS Foundation Trust,RHW,Royal Berkshire NHS Foundation Trust,0.172,0,0,844.348,844.348,0,0,42.13999999999999,42.13999999999999,,
+RTH,NHS England South East,Oxford University Hospitals NHS Foundation Trust,RTH,Oxford University Hospitals NHS Foundation Trust,1,15665,1472,2856,19993,4092,0,0,4092,,
+AQN04,NHS England South East,PHL LYMINGTON UTC,RHM,University Hospital Southampton NHS Foundation Trust,1,0,0,3185,3185,0,0,264,264,,
+RHU,NHS England South East,Portsmouth Hospitals University National Health Service Trust,RHU,Portsmouth Hospitals University National Health Service Trust,1,13784,1176,4331,19291,5487,24,21,5532,,
+RPC,NHS England South East,Queen Victoria Hospital NHS Foundation Trust,RTP,Surrey And Sussex Healthcare NHS Trust,1,0,0,1433,1433,0,0,1,1,,
+RHW,NHS England South East,Royal Berkshire NHS Foundation Trust,RHW,Royal Berkshire NHS Foundation Trust,1,12872,2923,3494,19289,4772,133,0,4905,,
+RA2,NHS England South East,Royal Surrey County Hospital NHS Foundation Trust,RA2,Royal Surrey County Hospital NHS Foundation Trust,1,7978,0,2477,10455,2800,0,1,2801,,
+NTP11,NHS England South East,Southampton NHS Treatment Centre,RHM,University Hospital Southampton NHS Foundation Trust,1,0,0,5701,5701,0,0,182,182,,
+RW1,NHS England South East,Hampshire and Isle of Wight Healthcare NHS Foundation Trust,RHU,Portsmouth Hospitals University National Health Service Trust,1,0,0,2855,2855,0,0,50,50,,
+NTPAD,NHS England South East,St Mary's NHS Treatment Centre,RHU,Portsmouth Hospitals University National Health Service Trust,1,0,0,5733,5733,0,0,144,144,,
+NVE43,NHS England South East,Hastings GP Led Health Centre,RXC,East Sussex Healthcare NHS Trust,1,0,0,901,901,0,0,0,0,,
+RTP,NHS England South East,Surrey And Sussex Healthcare NHS Trust,RTP,Surrey And Sussex Healthcare NHS Trust,1,11041,0,0,11041,5288,0,0,5288,,
+RDR,NHS England South East,Sussex Community NHS Foundation Trust,RTP,Surrey And Sussex Healthcare NHS Trust,0.6641943231770873,0,0,8718.214686022447,8718.214686022447,0,0,324.79102403359565,324.79102403359565,,
+RDR,NHS England South East,Sussex Community NHS Foundation Trust,RYR,University Hospitals Sussex NHS Foundation Trust,0.25687699209957854,0,0,3371.7673982990677,3371.7673982990677,0,0,125.61284913669391,125.61284913669391,,
+RDR,NHS England South East,Sussex Community NHS Foundation Trust,RWF,Maidstone And Tunbridge Wells NHS Trust,0.07892868472333418,0,0,1036.0179156784845,1036.0179156784845,0,0,38.596126829710414,38.596126829710414,,
+RHM,NHS England South East,University Hospital Southampton NHS Foundation Trust,RHM,University Hospital Southampton NHS Foundation Trust,1,12362,1182,0,13544,3951,15,0,3966,,
+RYR,NHS England South East,University Hospitals Sussex NHS Foundation Trust,RYR,University Hospitals Sussex NHS Foundation Trust,1,30362,1563,1900,33825,12940,164,217,13321,,
+ACH01,NHS England South East,Whitstable Medical Practice,RVV,East Kent Hospitals University NHS Foundation Trust,1,0,0,5085,5085,0,0,0,0,,
+NTV0W,NHS England South East,Woking Walk In Centre,RTK,Ashford And St Peter's Hospitals NHS Foundation Trust,1,0,0,2773,2773,0,0,84,84,,
+NQT1I,NHS England South East,Chippenham Community Hospital,RD1,Royal United Hospitals Bath NHS Foundation Trust,0.6,0,0,1086.6,1086.6,0,0,17.4,17.4,,
+NQT1I,NHS England South East,Chippenham Community Hospital,RN3,Great Western Hospitals NHS Foundation Trust,0.4,0,0,724.4000000000001,724.4000000000001,0,0,11.600000000000001,11.600000000000001,,
+RBD,NHS England South West,Dorset County Hospital NHS Foundation Trust,RBD,Dorset County Hospital NHS Foundation Trust,1,5255,0,4436,9691,2070,0,6,2076,,
+RTQ,NHS England South West,Gloucestershire Health and Care NHS Foundation Trust,RTE,Gloucestershire Hospitals NHS Foundation Trust,1,0,0,8345,8345,0,0,325,325,,
+RTE,NHS England South West,Gloucestershire Hospitals NHS Foundation Trust,RTE,Gloucestershire Hospitals NHS Foundation Trust,1,14773,0,0,14773,5639,0,0,5639,,
+RN3,NHS England South West,Great Western Hospitals NHS Foundation Trust,RN3,Great Western Hospitals NHS Foundation Trust,1,7991,0,4602,12593,3708,0,628,4336,,
+L83087,NHS England South West,Okehampton Medical Centre,RH8,Royal Devon University Healthcare NHS Foundation Trust,1,0,0,67,67,0,0,0,0,,
+NQT5H,NHS England South West,Paulton Memorial Hospital,RD1,Royal United Hospitals Bath NHS Foundation Trust,1,0,0,1382,1382,0,0,4,4,,
+REF,NHS England South West,Royal Cornwall Hospitals NHS Trust,REF,Royal Cornwall Hospitals NHS Trust,1,7435,0,12254,19689,3928,0,902,4830,,
+RH8,NHS England South West,Royal Devon University Healthcare NHS Foundation Trust,RH8,Royal Devon University Healthcare NHS Foundation Trust,1,14759,0,5049,19808,7344,0,14,7358,,
+RD1,NHS England South West,Royal United Hospitals Bath NHS Foundation Trust,RD1,Royal United Hospitals Bath NHS Foundation Trust,1,9425,0,0,9425,4079,0,0,4079,,
+RNZ,NHS England South West,Salisbury NHS Foundation Trust,RNZ,Salisbury NHS Foundation Trust,1,5083,339,2102,7524,2521,0,0,2521,,
+NLX,NHS England South West,Sirona Health Care,RA7,Bristol NHS Foundation Trust  ,1,0,0,9915,9915,0,0,555,555,,
+RH5,NHS England South West,Somerset NHS Foundation Trust,RH5,Somerset NHS Foundation Trust,1,12302,0,9553,21855,5855,0,324,6179,,
+RYF,NHS England South West,South Western Ambulance Service NHS Foundation Trust,RH8,Royal Devon University Healthcare NHS Foundation Trust,1,0,0,1826,1826,0,0,113,113,,
+AAH,NHS England South West,Tetbury Hospital Trust Ltd,RTE,Gloucestershire Hospitals NHS Foundation Trust,1,0,0,702,702,0,0,0,0,,
+RA9,NHS England South West,Torbay And South Devon NHS Foundation Trust,RA9,Torbay And South Devon NHS Foundation Trust,1,7380,0,3743,11123,2983,0,190,3173,,
+G3P9C,NHS England South West,Trowbridge Minor Injuries Unit,RD1,Royal United Hospitals Bath NHS Foundation Trust,0.6,0,0,974.4,974.4,0,0,12,12,,
+G3P9C,NHS England South West,Trowbridge Minor Injuries Unit,RN3,Great Western Hospitals NHS Foundation Trust,0.4,0,0,649.6,649.6,0,0,8,8,,
+RA7,NHS England South West,Bristol NHS Foundation Trust  ,RA7,Bristol NHS Foundation Trust  ,1,26019,2648,0,28667,8388,306,0,8694,,
+R0D,NHS England South West,University Hospitals Dorset NHS Foundation Trust,R0D,University Hospitals Dorset NHS Foundation Trust,1,16401,0,4083,20484,5767,0,0,5767,,
+RK9,NHS England South West,University Hospitals Plymouth NHS Trust,RK9,University Hospitals Plymouth NHS Trust,1,9089,74,8290,17453,5796,6,201,6003,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,
+,,,,,,0,0,0,0,0,0,0,0,,

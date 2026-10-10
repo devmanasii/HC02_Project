@@ -1,0 +1,3 @@
+Model,MAE,RMSE,MAPE_Percent
+XGBoost,205809.89,245658.33,9.39
+Previous-month baseline,101309.78,137041.32,4.53

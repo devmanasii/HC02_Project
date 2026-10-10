@@ -1,0 +1,4 @@
+Model,MAE,RMSE,MAPE_Percent
+Previous-month baseline,101309.78,137041.32,4.53
+Random Forest,107843.91,123945.36,4.74
+XGBoost,205809.75,245658.28,9.39

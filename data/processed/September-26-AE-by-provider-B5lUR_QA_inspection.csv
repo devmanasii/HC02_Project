@@ -1,0 +1,18 @@
+system,,,,,,,,,,,,,,,,,,,
+Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total attendances,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total Attendances < 4 hours,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total Attendances > 4 hours,Emergency Admissions via Type 1 A&E,Emergency Admissions via Type 2 A&E,Emergency Admissions via Type 3 and 4 A&E,Total Emergency Admissions via A&E,Other Emergency admissions (i.e not via A&E),Total Emergency Admissions,Number of patients spending >4 hours from decision to admit to admission,Number of patients spending >12 hours from decision to admit to admission
+1503149,55513,886081,2444743,910567,52395,855030,1817992,592582,3118,31051,626751,394675,1534,5107,401316,134842,536158,129199,50582
+1503149,55513,886081,2444743,910567,52395,855030,1817992,592582,3118,31051,626751,394675,1534,5107,401316,134842,536158,129199,50582
+pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass
+system v provider,,,,,,,,,,,,,,,,,,,
+pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass
+Provider check ,,,,,,,,,,,,,,,,,,,
+Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total attendances,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total Attendances < 4 hours,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total Attendances > 4 hours,Emergency Admissions via Type 1 A&E,Emergency Admissions via Type 2 A&E,Emergency Admissions via Type 3 and 4 A&E,Total Emergency Admissions via A&E,Other Emergency admissions (i.e not via A&E),Total Emergency Admissions,Number of patients spending >4 hours from decision to admit to admission,Number of patients spending >12 hours from decision to admit to admission
+1503149,55513,886081,2444743,910567,52395,855030,1817992,592582,3118,31051,626751,394675,1534,5107,401316,134842,536158,129199,50582
+1503149,55513,886081,2444743,910567,52395,855030,1817992,592582,3118,31051,626751,394675,1534,5107,401316,134842,536158,129199,50582
+pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass,pass
+Provider v Acute Footprint,,,,,,,,,,,,,,,,,,,
+PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,,,,,,,,
+Acute Trust Footprint Data,,,,,,,,,,,,,,,,,,,
+Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total attendances,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total Attendances < 4 hours,Type 1 Departments - Major A&E,Type 2 Departments - Single Specialty,Type 3 Departments - Other A&E/Minor Injury Unit,Total Attendances > 4 hours,,,,,,,,
+1503149,55513,886081,2444743,910567,52395,855030,1817992,592582,3118,31051,626751,,,,,,,,
+1503149,55513,886081,2444743,910567,52395,855030,1817992,592582,3118,31051,626751,,,,,,,,

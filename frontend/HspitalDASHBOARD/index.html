@@ -1,0 +1,165 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#176b87">
+    <title>HEATCARE | Hospital Demand Intelligence</title>
+    <link rel="stylesheet" href="home.css">
+</head>
+<body>
+    <header class="site-header">
+        <a href="index.html" class="brand" aria-label="HEATCARE home">
+            <span class="brand-icon">+</span>
+            <span>HEATCARE<small>Hospital Demand Intelligence</small></span>
+        </a>
+
+       
+<nav>
+   
+    
+
+    <a href="login.html" class="button button-outline">Login</a>
+    <a href="register.html" class="button button-primary">Register</a>
+</nav>
+
+    </header>
+
+    <main>
+        <section class="page-view">
+            <section class="hero" id="home">
+                <div class="hero-content">
+                    <span class="eyebrow">SMARTER HOSPITAL PLANNING</span>
+                    <h1>Prepare hospitals for <span>extreme heat.</span></h1>
+
+                    <p class="hero-description">
+                        HEATCARE helps hospitals understand weather conditions,
+                        estimate patient demand, and monitor available beds to
+                        support better planning during extreme heat events.
+                    </p>
+
+                    <div class="hero-actions">
+                        
+<a href="login.html" class="button button-outline">Login</a>
+<a href="register.html" class="button button-primary">Register</a>
+
+                    </div>
+
+                    <div class="trust-note">
+                        <span class="status-dot"></span>
+                        Weather-aware hospital planning
+                    </div>
+                </div>
+
+                <div class="hero-visual" aria-label="Hospital planning illustration">
+                    <div class="visual-circle circle-one"></div>
+                    <div class="visual-circle circle-two"></div>
+
+                    <div class="hospital-illustration">
+                        <div class="illustration-cross">+</div>
+                        <div class="hospital-roof"></div>
+                        <div class="hospital-building">
+                            <div class="hospital-window-row">
+                                <span></span><span></span><span></span>
+                            </div>
+                            <div class="hospital-door"></div>
+                        </div>
+                    </div>
+
+                    <div class="floating-card weather-float">
+                        <span class="float-icon sun-icon">☀</span>
+                        <div>
+                            <small>Weather monitoring</small>
+                            <strong>Extreme heat awareness</strong>
+                        </div>
+                    </div>
+
+                    <div class="floating-card demand-float">
+                        <span class="float-icon">✚</span>
+                        <div>
+                            <small>Hospital planning</small>
+                            <strong>Demand &amp; bed capacity</strong>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="features-section" id="features">
+                <div class="section-heading">
+                    <span class="eyebrow">OUR CAPABILITIES</span>
+                    <h2>One platform. Better preparation.</h2>
+                    <p>Bring weather information and hospital planning together in one place.</p>
+                </div>
+
+                <div class="feature-grid">
+                    <article class="feature-card">
+                        <div class="feature-icon blue-icon">☀</div>
+                        <h3>Live Weather</h3>
+                        <p>View current temperature, humidity, and weather conditions to understand heat exposure.</p>
+                    </article>
+
+                    <article class="feature-card">
+                        <div class="feature-icon teal-icon">⌁</div>
+                        <h3>Demand Prediction</h3>
+                        <p>Use a machine-learning model to estimate hospital attendance from weather and historical data.</p>
+                    </article>
+
+                    <article class="feature-card">
+                        <div class="feature-icon purple-icon">▦</div>
+                        <h3>Bed Monitoring</h3>
+                        <p>Organize bed availability and patient bed assignments for hospital planning.</p>
+                    </article>
+                </div>
+            </section>
+
+            <section class="cta-section">
+                <div>
+                    <span class="eyebrow">GET STARTED</span>
+                    <h2>Plan ahead. Support better care.</h2>
+                    <p>Open the HEATCARE dashboard to explore its features.</p>
+                </div>
+
+                <a href="login.html" class="button button-light button-large">
+                    Continue to Login →
+                </a>
+            </section>
+        </section>
+
+        <section id="databaseAttendance" class="database-attendance">
+            <h2>Hospital Attendance Data</h2>
+            <p>Monthly records retrieved from the HEATCARE database.</p>
+            <p id="attendanceDbStatus" role="status">Connecting to database...</p>
+
+            <div class="attendance-table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Month</th>
+                            <th>Total Attendance</th>
+                            <th>Max Temperature (°C)</th>
+                            <th>Hot Days</th>
+                        </tr>
+                    </thead>
+                    <tbody id="attendanceTableBody">
+                        <tr><td colspan="4">Loading records...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <a href="index.html" class="footer-brand">HEATCARE</a>
+        <p>Hospital demand planning for extreme heat awareness.</p>
+        <p class="footer-disclaimer">
+            Demonstration project. Predictions are estimates and should not
+            replace clinical or hospital operational judgment.
+        </p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="auth.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

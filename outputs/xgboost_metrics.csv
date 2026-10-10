@@ -1,0 +1,2 @@
+Model,MAE,RMSE,MAPE_Percent,Training_Records,Testing_Records
+XGBoost,205809.75,245658.27894862407,9.388288489826142,34,9

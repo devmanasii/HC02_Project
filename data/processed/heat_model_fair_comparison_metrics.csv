@@ -1,0 +1,3 @@
+Model,MAE,RMSE,MAPE_Percent
+Previous-month baseline,60048.67,68978.57,2.66
+Heat model,269337.71,270509.12,12.04

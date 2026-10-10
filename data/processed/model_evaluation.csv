@@ -1,0 +1,4 @@
+Model,MAE,RMSE,MAPE_Percent
+Previous-month baseline,78270.8,89794.22,3.39
+Random Forest,132441.93,147534.55,5.64
+Linear Regression,268443.98,275196.08,11.52
